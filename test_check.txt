@@ -4,8 +4,8 @@
 int main(int argc, char **argv)
 {
 
-/* test (check) from MarinaTest2 */
-/* test (check) from MarinaTest2 */
+/* second test (check) from MarinaTest2 */
+/* second test (check) from MarinaTest2 */
     char first[255], last[255];
 
     printf("Enter your first name: ");

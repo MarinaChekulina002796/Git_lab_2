@@ -3,6 +3,7 @@
 
 int main(int argc, char **argv)
 {
+/*test comment from MarinaTest2*/
     char first[255], last[255];
 
     printf("Enter your first name: ");
